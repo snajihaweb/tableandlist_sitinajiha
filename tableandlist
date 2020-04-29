@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Siti Najiha Table List</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+<body>
+     <table border="1" cellspacing="0" width="30%">
+<tr>
+	<th width="5%">Bil</th>
+    <th width="30%" width="30%">Book</th>
+    <th width="15%">Page</th>
+</tr>
+
+<tr>
+<ul>
+	<td class="c">1.</td>
+	<td><ul><li>Visit Malaysia<br><ul type circle="circle"><li>KL Version<br><li>Kedah Version<br></ul><li>Lost in Malaysia<br><li>Malaysia Food</li></br> 
+	</td>
+    <td align="center">26<br>99<br>21<br>36</br></td>
+</ul>
+</tr>
+
+<tr>
+	    <td>2.</td>
+<td>
+	<ol type="i">
+	<li>Fasting?</li>
+	<li>Food Bazaar for Ramadhan?</li>
+</td>
+</ol>
+
+	<td align="center">26<br>311</br></td>
+
+</tr>
+</table>
+   
+</body>
+</html>
